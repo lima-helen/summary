@@ -12,6 +12,10 @@
     action提交mutation。
 >>![blockchain](./images/3.png "区块链")  
 
+
+####常用基础scss在common-scss文件夹
+
+####渐变颜色在gradual-color 文件夹
     
         
 
